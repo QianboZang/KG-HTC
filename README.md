@@ -12,6 +12,22 @@ For the retrieved subgraph, an upwards propagation algorithm is employed to syst
 ![evaluation](script_main/pipeline.png)
 
 
+## How to run the code
+1. Save database/graph_records.json to neo4j
+2. create .env file. Input your OpenAI api and DB password.
+```python
+API_KEY = 'Input your key'
+API_VERSION = ''
+AZURE_ENDPOINT = ''
+DEPLOYMENT_NAME = ''
+
+EMBEDDING_DEPLOYMENT_NAME = ''
+
+NEO4J_USERNAME = ''
+NEO4J_PASSWORD = ''
+NEO4J_URI = ''
+```
+
 
 ## Evaluation
 
