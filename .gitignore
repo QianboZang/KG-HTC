@@ -1,5 +1,6 @@
 .env
-database/
-dataset/
 __pycache__/
-.DS_Store.DS_Store
+.DS_Store
+script_main/
+script_ablation_qwen/
+script_ablation_full/
