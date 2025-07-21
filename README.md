@@ -14,7 +14,7 @@ For the retrieved subgraph, an upwards propagation algorithm is employed to syst
 
 ## How to run the code
 1. Save database/graph_records.json to neo4j
-2. create .env file. Input your OpenAI api and DB password.
+2. Create .env file. Input your OpenAI api and DB password.
 ```python
 API_KEY = 'Input your key'
 API_VERSION = ''
@@ -27,7 +27,10 @@ NEO4J_USERNAME = ''
 NEO4J_PASSWORD = ''
 NEO4J_URI = ''
 ```
-
+3. run experiment with python command.
+```python
+python code_dbpedia/gpt_dbpedia.py
+```
 
 ## Evaluation
 
