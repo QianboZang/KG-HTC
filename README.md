@@ -13,7 +13,7 @@ For the retrieved subgraph, an upwards propagation algorithm is employed to syst
 
 
 ## How to run the code
-1. Save database/graph_records.json to neo4j
+1. Save database/graph_records.json to neo4j.
 2. Create .env file. Input your OpenAI api and DB password.
 ```python
 API_KEY = 'Input your key'
