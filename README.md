@@ -28,7 +28,7 @@ NEO4J_PASSWORD = ''
 NEO4J_URI = ''
 ```
 3. run experiment with python command.
-```python
+```bash
 python code_dbpedia/gpt_dbpedia.py
 ```
 
