@@ -39,3 +39,20 @@ We evaluate our approach using three public datasets and achieve new state-of-th
 ![evaluation](script_main/evaluation.png)
 
 ![evaluation](script_main/f1_decay_rates.png)
+
+
+## Cite
+```
+@inproceedings{DBLP:conf/ecai/ZangTZKS25,
+  author       = {Qianbo Zang and
+                  Igor Tchappi and
+                  Christophe Zgrzendek and
+                  Afshin Khadangi and
+                  Johannes Sedlmeir},
+  title        = {{KG-HTC:} Integrating Knowledge Graphs into LLMs for Zero-Shot Hierarchical
+                  Text Classification},
+  booktitle    = {28th European Conference on Artificial Intelligence},
+  year         = {2025},
+  url          = {https://ebooks.iospress.nl/doi/10.3233/FAIA251303}
+}
+```
